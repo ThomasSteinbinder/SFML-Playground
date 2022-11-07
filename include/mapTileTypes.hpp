@@ -1,0 +1,5 @@
+enum MapTileType
+{
+  Grass,
+  Select
+};
